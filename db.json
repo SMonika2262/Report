@@ -316,43 +316,6 @@
    "lastName": "Lee",
    "Employee_ID": "21053",
    "Hire_Date": "2000-01-01"
-},
-{
-   "firstName": "Gavin",
-   "lastName": "Li",
-   "Employee_ID": "21054",
-   "Hire_Date": "2000-01-01"
-},
+}]
 
-{
-   "firstName": "Héctor",
-   "lastName": "Torres",
-   "Employee_ID": "21137",
-   "Hire_Date": "2000-01-01"
-},
-{
-   "firstName": "Inés",
-   "lastName": "Álvarez",
-   "Employee_ID": "21138",
-   "Hire_Date": "2000-01-01"
-},
-{
-   "firstName": "Isabelle",
-   "lastName": "Blanc",
-   "Employee_ID": "21139",
-   "Hire_Date": "2000-01-01"
-},
-{
-   "firstName": "Ryan",
-   "lastName": "Taylor",
-   "Employee_ID": "21140",
-   "Hire_Date": "2000-01-01"
-},
-{
-   "firstName": "Joyce",
-   "lastName": "Sandoval",
-   "Employee_ID": "21141",
-   "Hire_Date": "2000-01-01"
-}
-]
 }
